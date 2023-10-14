@@ -8,3 +8,7 @@ This repo is home of the TOP's Project: Recipes
 
 - ordered lists
 - unordered lists
+- image
+- links
+- paragraphs
+- headings
