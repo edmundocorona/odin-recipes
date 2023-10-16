@@ -2,11 +2,13 @@
   background-color: #F6EEE3;
   color: #4F4F4F;
   font-family: 'Times New Roman', 'Georgia', serif;
+  font-size: 12;
 }
 
 h1 {
   text-align: center;
   color: #1F1F1F;
+  font-family: 'Open Sans', "PT Sans", Calibri, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
