@@ -1,0 +1,23 @@
+* {
+  background-color: #F6EEE3;
+  color: #4F4F4F;
+  font-family: 'Times New Roman', 'Georgia', serif;
+}
+
+h1 {
+  text-align: center;
+  color: #1F1F1F;
+}
+
+h2 {
+  color: #333333;
+}
+
+a {
+  color: #030303;
+}
+
+img {
+  height: 600px;
+  width: auto;
+}
