@@ -1,8 +1,16 @@
-* {
-  background-color: #F6EEE3;
+body {
+  background-color: #e5decf;
   color: #4F4F4F;
-  font-family: 'Times New Roman', 'Georgia', serif;
-  font-size: 12;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+.card {
+  background-color: #f6eee3;
+  width: 576px;
+  margin: 16px auto;
+  padding: 16px;
 }
 
 h1 {
@@ -22,4 +30,8 @@ a {
 img {
   height: 600px;
   width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+;
 }
